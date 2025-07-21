@@ -3,7 +3,7 @@ const hoursE1 = document.getElementById('hours');
 const minutesE1 = document.getElementById('minutes');
 const secondsE1 = document.getElementById('seconds');
 
-const newJob = 'Jul 31 2026';
+const newJob = 'Jul 24 2026';
 
 function countdown() {
     const newJobDate = new Date(newJob);
